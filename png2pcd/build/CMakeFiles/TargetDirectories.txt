@@ -1,0 +1,3 @@
+/home/jiazhibo/png2pcd/build/CMakeFiles/rebuild_cache.dir
+/home/jiazhibo/png2pcd/build/CMakeFiles/png2pcd.dir
+/home/jiazhibo/png2pcd/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/jiazhibo/pcl/test_char/build/CMakeFiles/rebuild_cache.dir
+/home/jiazhibo/pcl/test_char/build/CMakeFiles/readpcd.dir
+/home/jiazhibo/pcl/test_char/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiazhibo/pcl/test_sem/test_sem.cpp
+iostream
+-
+unistd.h
+-
+boost/thread.hpp
+-
+queue
+-
+mutex
+-
+
